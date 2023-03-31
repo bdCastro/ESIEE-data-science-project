@@ -2,13 +2,15 @@
 
 ## Requirements
 
-- Python 3.7.4
+- Python 3.11.0 or higher
 - Jupyter Notebook
 - Virtual Enviroment (venv)
 
 ## How to run the project?
 
-This project is developed using Python and Jupyter notebooks, as well as Python's virtual enviroment (venv). To run the project, you need to install Python 3.7.4 and Jupyter Notebook. You can download Python from [here](https://www.python.org/downloads/release/python-374/). To install Jupyter Notebook, you can follow the instructions [here](https://jupyter.org/install).
+This project is developed using Python and Jupyter notebooks, as well as Python's virtual enviroment (venv). To run the project, you need to install Python 3.11.0 or higher, you can download it [here](https://www.python.org/downloads/).
+
+To install Jupyter Notebook, you can follow the instructions [here](https://jupyter.org/install).
 
 To create and run a Python virtual environment, you can follow the instructions [here](https://docs.python.org/3/library/venv.html).
 
