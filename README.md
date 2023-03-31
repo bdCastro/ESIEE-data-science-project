@@ -19,3 +19,7 @@ The requirements for this project are listed in the file `requirements.txt`. To 
 ```bash
 pip install -r ./code/requirements.txt
 ```
+
+## Dataset used
+
+The dataset used is called Global Video Game Sales, and it's available on Kaggle [here](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales).
